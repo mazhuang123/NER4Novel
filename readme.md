@@ -23,26 +23,26 @@ python lib：
 2. 运行如下命令
 
 ```bash
-python rel.py --book book_name #注意没有txt后缀
+#python run_HanNLP.py --book book_name #注意没有txt后缀
 ```
 
 ## 运行结果展示
 
 ### 平凡的世界
 
-![pfdsj](readme/pfdsj.png)
+![pfdsj](HanNlp/readme/pfdsj.png)
 
-![pfdsj2](readme/pfdsj2.png)
+![pfdsj2](HanNlp/readme/pfdsj2.png)
 
-![pfdsj3](readme/pfdsj3.png)
+![pfdsj3](HanNlp/readme/pfdsj3.png)
 
 ### 三体
 
-![santi](readme/santi.png)
+![santi](HanNlp/readme/santi.png)
 
-![santi2](readme/santi2.png)
+![santi2](HanNlp/readme/santi2.png)
 
-![santi3](readme/santi3.png)
+![santi3](HanNlp/readme/santi3.png)
 
 ## 分词模型对比
 
